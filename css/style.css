@@ -285,3 +285,26 @@ header {
     display: block;
     margin: 0 auto;
 }
+
+.important {
+    padding-bottom: 150px;
+
+}
+
+.important-title {
+    margin-bottom: 20px;
+}
+
+.important__text {
+    margin: 0 auto 50px;
+    max-width: 580px;
+}
+
+.important__list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.important__item-img {
+    margin-bottom: 20px;
+}
