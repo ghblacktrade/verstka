@@ -264,3 +264,24 @@ header {
     left: 0;
     top: 0;
 }
+
+.video-main {
+    padding-bottom: 150px;
+
+}
+
+.main-video__title {
+    margin-bottom: 20px;
+}
+
+.main-video__text {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.main-video__content {
+    display: block;
+    margin: 0 auto;
+}
