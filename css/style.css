@@ -436,6 +436,10 @@ header {
     padding: 100px 0 150px;
 }
 
+.tabs {
+    margin-bottom: 70px;
+}
+
 .tabs__btn {
     display: flex;
     justify-content: space-between;
